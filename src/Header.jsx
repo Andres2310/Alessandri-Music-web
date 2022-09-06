@@ -7,7 +7,7 @@ function Header() {
     
     <header className="min-w-full min-h-[200px] bg-white flex flex-col items-center">
       <div className="max-w-sm min-h-full p-6 pb-0 mb-0">
-        <img src="../resources/LogoAlessandri-Negro-06.png" alt="Alessandri-logo" />
+        <img src="https://res.cloudinary.com/dop9b3vkb/image/upload/v1662440845/Alessandri/LogoAlessandri-Negro-06_tpovzz.png" alt="Alessandri-logo" />
       </div>
       {/* <span>Menu</span> */}
       <nav className="flex justify-center gap-5 pt-2 text-base font-semibold">
