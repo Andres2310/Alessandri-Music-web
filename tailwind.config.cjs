@@ -5,10 +5,7 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    fontFamily:{
-      
-    },
     extend: {},
   },
-  plugins: [],
+  plugins: [[require("prettier-plugin-tailwindcss")]],
 }
