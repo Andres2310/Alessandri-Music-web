@@ -11,7 +11,7 @@ function Header() {
       </div>
       <nav className="font-serif flex justify-center gap-5 pt-2 text-[16.5px] font-thin">
         <a className="hover:underline underline-offset-2 decoration-orange-400 decoration-4" href="">MÚSICA</a>
-        <a className="hover:underline underline-offset-2 decoration-orange-400 decoration-4" href="">MERCH</a>
+        <a className="hover:underline underline-offset-2 decoration-orange-400 decoration-4" href="">TIENDA</a>
       </nav>
       <footer className="container text-center p-5">
         <div className="flex justify-center gap-3">
